@@ -1,3 +1,3 @@
 testing
-<img src="test1">
-<img src="test2">
+<img src="screenshot_test1">
+<img src="screenshot_test2">
