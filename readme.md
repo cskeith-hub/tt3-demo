@@ -1,3 +1,3 @@
 testing
-<img src="screenshot_test1">
-<img src="screenshot_test2">
+<img src="https://github.com/magalifabri/react-intro/blob/main/public/check_it_app_mobile_screenshot.png?raw=true" alt="" width="300"/>
+<img src="https://github.com/magalifabri/react-intro/blob/main/public/check_it_app_mobile_screenshot.png?raw=true" alt="" width="300"/>
